@@ -1,5 +1,9 @@
 # JasaKita — Aplikasi Pemesanan Jasa (React PWA)
 
+**🔗 Demo langsung:** https://trikoteka98.github.io/jasakita/
+
+> Buka di Chrome HP → menu ⋮ → **Instal aplikasi** untuk memasangnya seperti aplikasi biasa.
+
 Aplikasi web bergaya mobile app untuk pemesanan jasa **di Kota Jayapura, Papua**:
 pilih kategori → lihat katalog penyedia → cek cakupan wilayah → pesan via WhatsApp.
 Bisa di-install ke home screen HP (PWA) dan jalan offline.
